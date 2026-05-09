@@ -1,0 +1,7 @@
+# Hugging Face pipeline eval (IMDB 500). Install with same mirror as numpy stack:
+# pip install -r requirements_hf.txt -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+torch
+transformers
+accelerate
+sentencepiece
+safetensors

@@ -1,0 +1,34 @@
+============================================================
+Model: textattack/roberta-base-imdb
+============================================================
+Accuracy on first 50 reviews: 100.00% (50/50)
+Accuracy on ALL 500 reviews: 98.40% (492/500)
+Wrong predictions: 8/500
+============================================================
+
+
+All wrong predictions:
+
+[1] Review #159 True=0 Pred=1 Score=0.9440
+    I thought it was a New-York located movie: wrong! It's a little British countryside setting.<br /><br />I thought it was a comedy: wrong! It's a drama.... Well, up to the last third, because after the story becomes total...
+
+[2] Review #175 True=1 Pred=0 Score=0.8905
+    The production quality, cast, premise, authentic New England (Waterbury, CT?) locale and lush John Williams score should have resulted in a 3-4 star collectors item. Unfortunately, all we got was a passable 2 star "decen...
+
+[3] Review #210 True=0 Pred=1 Score=0.5531
+    I am a big fan of Arnold Vosloo. Finally seeing him as the star of a recent movie, not just a bit part, made me happy.<br /><br />Unfortunately I took film appreciation in college and the only thing I can say that I didn...
+
+[4] Review #291 True=0 Pred=1 Score=0.8481
+    I saw this DVD in my friends house and thought that this was a Turkish action movie with some Hollywood-not very big-names in it. Interested enough I decide to give it a shot later.. It was a tough to bear experience bel...
+
+[5] Review #355 True=0 Pred=1 Score=0.7161
+    The five or so really good westerns that Mann made are unequaled as an ensemble in Hollywood. Even John Ford never made that many with so much quality. The curious thing about them all is how uneven they are. Ford's My D...
+
+[6] Review #357 True=1 Pred=0 Score=0.9824
+    "Gespenster" (2005) forms, together with "Yella" (2007), and "Jerichow" (2008), the Gespenster-trilogy of director Christian Petzold, doubtless one of the creme-De-la-creme German movie directors of our time.<br /><br />...
+
+[7] Review #378 True=1 Pred=0 Score=0.9944
+    The only reason I wanted to see this was because of Orlando Bloom. Simply put, the movie was spectacularly average. It's not bad, but it's really not very good. The editing is good; the film is well-paced. The direction ...
+
+[8] Review #486 True=1 Pred=0 Score=0.9638
+    An ultra-nervous old man, "Mr. Goodrich," terrorized by the news that a gang is stalking the city and prominent citizens are disappearing, really panics when someone throws a rock through his window with a message tied t...

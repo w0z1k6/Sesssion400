@@ -1,0 +1,34 @@
+============================================================
+Model: textattack/bert-base-uncased-imdb
+============================================================
+Accuracy on first 50 reviews: 96.00% (48/50)
+Accuracy on ALL 500 reviews: 98.40% (492/500)
+Wrong predictions: 8/500
+============================================================
+
+
+All wrong predictions:
+
+[1] Review #10 True=0 Pred=1 Score=0.9996
+    This is an action Western. James Steart leads an all star cast in the scenic Northwest, which is filmed in great splendor. The scenery and costumes are great. There is action and adventure. Stewart plays a wealthy cattle...
+
+[2] Review #35 True=1 Pred=0 Score=0.9887
+    Lars Von Trier is never backward in trying out new techniques. Some of them are very original while others are best forgotten.<br /><br />He depicts postwar Germany as a nightmarish train journey. With so many cities lyi...
+
+[3] Review #80 True=0 Pred=1 Score=0.9989
+    Despite a decent first season this series never came close to realizing its potential. Set as a prequel to the original "Star Trek" series it was doomed almost from the start by an executive producer, Rick Berman, who fe...
+
+[4] Review #126 True=1 Pred=0 Score=0.9299
+    "Gespenster" Question of to be cool in the German cinema<br /><br />There are not many German films in the last ten years, who have made me so interest. Yes, the problem of the most German films are in this film "Gespens...
+
+[5] Review #159 True=0 Pred=1 Score=0.9997
+    I thought it was a New-York located movie: wrong! It's a little British countryside setting.<br /><br />I thought it was a comedy: wrong! It's a drama.... Well, up to the last third, because after the story becomes total...
+
+[6] Review #357 True=1 Pred=0 Score=0.9989
+    "Gespenster" (2005) forms, together with "Yella" (2007), and "Jerichow" (2008), the Gespenster-trilogy of director Christian Petzold, doubtless one of the creme-De-la-creme German movie directors of our time.<br /><br />...
+
+[7] Review #371 True=1 Pred=0 Score=0.9968
+    Scott Bartlett's 'OffOn' is nine minutes of pure craziness. It is a full-frontal assault of psychedelic, pulsating, epilepsy-inducing flashing lights and colours, and the first true merging of film and video in avante-ga...
+
+[8] Review #378 True=1 Pred=0 Score=0.9977
+    The only reason I wanted to see this was because of Orlando Bloom. Simply put, the movie was spectacularly average. It's not bad, but it's really not very good. The editing is good; the film is well-paced. The direction ...
